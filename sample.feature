@@ -6,5 +6,7 @@ Then user enters credentials
 #Adding new line
 And check the result
 Then update file
+#Check the result
+#Adding changes in local
 
 
